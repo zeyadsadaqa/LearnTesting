@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="is_first_time_to_run">first_time</string>
+</resources>
